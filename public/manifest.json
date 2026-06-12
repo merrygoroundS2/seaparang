@@ -1,0 +1,20 @@
+{
+  "name": "새파랑 - 해양경찰청 청년인턴 커뮤니티",
+  "short_name": "새파랑",
+  "description": "해양경찰청 청년인턴을 위한 커뮤니티 플랫폼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#3B7BE8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/mascot.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "lang": "ko",
+  "scope": "/"
+}

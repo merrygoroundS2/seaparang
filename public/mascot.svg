@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Body -->
+  <ellipse cx="32" cy="38" rx="22" ry="20" fill="#3B7BE8"/>
+  <!-- Belly -->
+  <ellipse cx="32" cy="42" rx="14" ry="13" fill="#E8F0FE"/>
+  <!-- Head -->
+  <circle cx="32" cy="22" r="16" fill="#3B7BE8"/>
+  <!-- Face -->
+  <circle cx="32" cy="24" r="11" fill="#E8F0FE"/>
+  <!-- Eyes -->
+  <circle cx="27" cy="22" r="2.5" fill="#1A1A1A"/>
+  <circle cx="37" cy="22" r="2.5" fill="#1A1A1A"/>
+  <circle cx="28" cy="21" r="0.8" fill="#FFFFFF"/>
+  <circle cx="38" cy="21" r="0.8" fill="#FFFFFF"/>
+  <!-- Nose -->
+  <ellipse cx="32" cy="26" rx="2" ry="1.5" fill="#1A1A1A"/>
+  <!-- Mouth -->
+  <path d="M29 28 Q32 31 35 28" stroke="#1A1A1A" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- Cheeks -->
+  <circle cx="23" cy="26" r="2.5" fill="#FFB5B5" opacity="0.6"/>
+  <circle cx="41" cy="26" r="2.5" fill="#FFB5B5" opacity="0.6"/>
+  <!-- Ears -->
+  <circle cx="18" cy="14" r="5" fill="#3B7BE8"/>
+  <circle cx="46" cy="14" r="5" fill="#3B7BE8"/>
+  <circle cx="18" cy="14" r="2.5" fill="#E8F0FE"/>
+  <circle cx="46" cy="14" r="2.5" fill="#E8F0FE"/>
+  <!-- Flippers -->
+  <ellipse cx="12" cy="36" rx="5" ry="8" fill="#3B7BE8" transform="rotate(-15 12 36)"/>
+  <ellipse cx="52" cy="36" rx="5" ry="8" fill="#3B7BE8" transform="rotate(15 52 36)"/>
+</svg>
